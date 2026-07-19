@@ -1,0 +1,4 @@
+Juan Perez,12345678-9,Av. Costanera 120,Puerto Montt,Los Lagos,BancoChile,11112222
+Maria Soto,98765432-1,Calle Varas 450,Puerto Varas,Los Lagos,BancoEstado,33334444
+Pedro Diaz,11223344-5,Av. Alemania 300,Llanquihue,Los Lagos,BCI,55556666
+Carolina Ruiz,15678901-2,Calle O'Higgins 250,Frutillar,Los Lagos,Santander,77778888
